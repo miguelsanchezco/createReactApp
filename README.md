@@ -78,4 +78,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 1. In your console type this
 > npx create-react-app your-application-name
 
-
+2. Delete files that we will dont, for example the testing files
